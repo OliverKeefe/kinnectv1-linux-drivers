@@ -3,3 +3,6 @@
 
 **Why**
 Because I have an old V1 Xbox 360 Kinnect from the early 2010s just sat around collecting dust and I'm in need of a webcam suited for Computer Vision tasks.
+
+**Disclaimer**
+This project is early in development so more it's more than likely that there will be missing / broken features.
